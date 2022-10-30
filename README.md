@@ -2,7 +2,7 @@
 
 Challenge by Frontend Mentor. Coded by lordvitor11.
 
->![lordvitor11 github io_Product-preview-card_](https://user-images.githubusercontent.com/65216891/198903636-f52401c6-bee3-4925-8f86-564424d91ad5.png)
+![lordvitor11 github io_Product-preview-card_](https://user-images.githubusercontent.com/65216891/198903636-f52401c6-bee3-4925-8f86-564424d91ad5.png)
 
 >[Clique aqui para acessar](https://lordvitor11.github.io/Product-preview-card/)
 
